@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImgApp</string>
+    <string name="btn_ok">Ok</string>
+    <string name="loading_text">Loading...</string>
+    <string name="error_downloading">Cant download this image!!!</string>
+    <string name="url_error">Your URL is incorrect</string>
+    <string name="delete_incorrect_url">Your URL deleted</string>
+</resources>
